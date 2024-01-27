@@ -209,18 +209,14 @@ You should also get your employer (if you work as a programmer) or school, if an
 
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-Right to Relicense
+Right to Relicense Clause
 
-The original author and copyright holder of "Dwarf Game," Toon Lunk, reserves the exclusive right to relicense any and all parts of "Dwarf Game," including contributions made by external contributors, under a different license at any time in the future. This includes the right to relicense the project or portions of it under a proprietary or closed-source license.
+1. The original author and copyright holder of "Dwarf Game," Toon Lunk, reserves the exclusive right to relicense any and all parts of "Dwarf Game," including contributions made by external contributors, under a different license at any time in the future. This includes the right to relicense the project or portions of it under a proprietary or closed-source license.
 
-Contributor Agreement
+2. By contributing to "Dwarf Game," contributors agree that their contributions may be included in future versions of "Dwarf Game" that may be released under a different license, including proprietary or closed-source licenses, at the sole discretion of the original author, Toon Lunk. Contributors must be credited for their contributions in any future versions of "Dwarf Game" that may be released under a different license. Contributors may request to have their contributions removed from future versions of "Dwarf Game" that may be released under a different license, but are not guaranteed to have their contributions removed.
 
-By contributing to "Dwarf Game," contributors agree that their contributions may be included in future versions of "Dwarf Game" that may be released under a different license, including proprietary or closed-source licenses, at the sole discretion of the original author, Toon Lunk.
+3. Contributors and users acknowledge and agree that "Dwarf Game" is provided under the current license terms without any guarantee of remaining open-source in perpetuity. The project may be relicensed under different terms, including terms that do not guarantee open access or modification rights as provided under the current license. Contributors and users acknowledge and agree that they are not entitled to any compensation or reimbursement of any kind for any contributions made to "Dwarf Game" or for any use of "Dwarf Game" under the current license terms.
 
-No Guarantee of Open Source in Perpetuity
-
-Contributors and users acknowledge and agree that "Dwarf Game" is provided under the current license terms without any guarantee of remaining open-source in perpetuity. The project may be relicensed under different terms, including terms that do not guarantee open access or modification rights as provided under the current license.
-
-Intent and Purpose
+Intent and Purpose of Right to Relicense Clause
 
 The intent of this clause is to provide Toon Lunk with the flexibility to adapt the licensing of "Dwarf Game" to future needs and circumstances, while initially providing the software under GNU GENERAL PUBLIC LICENSE.
