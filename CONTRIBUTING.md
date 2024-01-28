@@ -20,11 +20,11 @@ If you find a bug, please report it! We want to know about bugs so we can fix th
 3. Click the "Get Started" button under "Bug Report"
 4. Fill out the form and click "Submit New Issue"
 
-### A: Suggesting Enhancements
+### A: Suggest Enhancements
 
 If you have an idea for the game, please let us know!
 
-### A: Code Contribution\*
+### A: Contribute Code\*
 
 This game is open source, so you can contribute code to it! Please follow these steps to contribute code:
 
@@ -41,3 +41,9 @@ Please follow these guidelines when contributing code:
 -   **Commit Messages**: Please write good commit messages.
 -   **Pull Requests**: Please make sure your pull request is up-to-date with the latest changes in the main branch.
 -   **Making Changes to Game Mechanics**: If you're making changes to core game mechanics, please make sure to discuss it with the team first - of course, you can still submit a pull request, but we want to make sure we're all on the same page.
+-   **Read the license**: Please read the license before contributing. We want to make sure that your contributions are compatible with the license.
+
+## Licensing
+
+-   **License (for code)**: We are currently using the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license for code. Please make sure your code is compatible with this license. There are further details in the [LICENSE](license.md) file.
+-   **License (for art)**: We are currently using a custom license for art. Please see the bottom of [LICENSE](license.md) for details. In essence, we want to make sure that artists retain their rights to their art, but that we can use the art in the game without worrying about the artist revoking their permission.

@@ -209,6 +209,8 @@ You should also get your employer (if you work as a programmer) or school, if an
 
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
+END OF GNU GENERAL PUBLIC LICENSE
+
 Right to Relicense Clause
 
 1. The original author and copyright holder of "Dwarf Game," Toon Lunk, reserves the exclusive right to relicense any and all parts of "Dwarf Game," including contributions made by external contributors, under a different license at any time in the future. This includes the right to relicense the project or portions of it under a proprietary or closed-source license.
@@ -220,3 +222,25 @@ Right to Relicense Clause
 Intent and Purpose of Right to Relicense Clause
 
 The intent of this clause is to provide Toon Lunk with the flexibility to adapt the licensing of "Dwarf Game" to future needs and circumstances, while initially providing the software under GNU GENERAL PUBLIC LICENSE.
+
+Custom Licensing Terms for Artists
+
+1. Copyright Retention: Artists retain copyright over their art contributions.
+2. Non-Revocable License to Use: By contributing art to "Dwarf Game," artists grant Toon Lunk a non-exclusive, perpetual, worldwide, royalty-free license to use, display, and distribute the contributed art as part of "Dwarf Game." This license is non-revocable, meaning once the art is contributed, it becomes a permanent part of "Dwarf Game."
+3. Credit: Artists will be credited for their contributions in a manner agreed upon with Toon Lunk.
+
+Rights and Limitations
+
+1. No Commercial Restrictions: The contributed art can be used for commercial purposes as part of "Dwarf Game."
+2. No Derivative Works: The art cannot be altered or used to create derivative works for use outside of "Dwarf Game" without the express permission of the artist.
+
+Intent and Purpose of Custom Licensing Terms for Artists
+
+This custom licensing arrangement is designed to:
+
+1. Respect and acknowledge the contributions and rights of artists.
+2. Ensure that once art is contributed to "Dwarf Game," it can be used perpetually for the game's development and promotion without the risk of future withdrawal.
+
+Artist Agreement
+
+Artists wishing to contribute to "Dwarf Game" are required to agree to these terms at the time of their contribution. This agreement ensures clarity and mutual understanding regarding the use and rights associated with art contributions.
