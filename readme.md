@@ -2,7 +2,7 @@
 
 Join our Discord server for any questions/feedback!
 
-[![Discord](https://img.shields.io/discord/863471947837505536?label=Discord&logo=discord&logoColor=white)](https://discord.gg/gDJ6eYmeXJ)
+<iframe src="https://discord.com/widget?id=971822594691047525&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 (In case the Discord button doesn't work, here's the link: https://discord.gg/gDJ6eYmeXJ)
 
