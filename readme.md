@@ -18,10 +18,10 @@ Dwarf Game is a massively multiplayer game you play in your browser. Team up wit
 
 ## Technology Stack
 
--   **Frontend**: TypeScript (Angular) with SCSS
+-   **Frontend**: Vue.js
 -   **Backend**: Python (FastAPI)
 -   **Database**: PostgreSQL
-    Last time I started this project, I used NodeJS and Express. Since then, I've grown accustomed to Angular a little more and find it easier to work with. I chose FastAPI because Python is simple to write and FastAPI is very fast. I used PostgreSQL because it's the SQL flavor I'm used to.
+    Last time I started this project, I used NodeJS and Express. Since then, I've grown accustomed to Angular a little more and find it easier to work with. That being said, I want to learn Vue.js because I heard it's a little easier to work with, and I like learning new things. I chose FastAPI because Python is simple to write and FastAPI is very fast. I used PostgreSQL because it's the SQL flavor I'm used to.
 
 ## Getting Started
 
@@ -29,9 +29,9 @@ To get started:
 
 1. Clone this repository
 2. Make sure to have Angular and Python installed on your machine
-3. cd into frontend and run `ng serve`
-4. cd into backend and run `uvicorn main:app --reload`
-5. Go to the URL localhost:4200
+ <!-- 3. cd into frontend and run `ng serve` -->
+3. cd into backend and run `uvicorn main:app --reload`
+4. Go to the URL localhost:4200
 
 ### Prerequisites
 
